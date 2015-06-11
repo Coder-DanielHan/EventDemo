@@ -1,0 +1,19 @@
+<com.example.eventdemo.MyFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    tools:context=".MainActivity" >
+
+    <com.example.eventdemo.MyTextView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/holo_red_dark" />
+
+    <com.example.eventdemo.MyLinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:background="@android:color/holo_blue_light" >
+    </com.example.eventdemo.MyLinearLayout>
+
+</com.example.eventdemo.MyFrameLayout>
