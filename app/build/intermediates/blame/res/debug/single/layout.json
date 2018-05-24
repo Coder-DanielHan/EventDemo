@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/merged/debug/layout/activity_frame_top_bottom.xml",
+        "source": "/Users/DanielHan/AndroidStudioProjects/EventDemo/app/src/main/res/layout/activity_frame_top_bottom.xml"
+    },
+    {
+        "merged": "/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/DanielHan/AndroidStudioProjects/EventDemo/app/src/main/res/layout/activity_main.xml"
+    }
+]

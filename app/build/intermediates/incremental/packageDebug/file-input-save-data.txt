@@ -1,0 +1,21 @@
+#Internal package file, do not edit.
+#Thu May 24 08:14:40 CST 2018
+2.base=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_
+5.file=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+5.set=ANDROID_RESOURCE
+3.base=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_
+2.set=ANDROID_RESOURCE
+4.base=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main
+count=6
+0.file=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_
+4.set=DEX
+1.file=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_frame_top_bottom.xml
+0.base=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_/res/drawable-xxhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/DanielHan/AndroidStudioProjects/EventDemo/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex
+0.set=ANDROID_RESOURCE
